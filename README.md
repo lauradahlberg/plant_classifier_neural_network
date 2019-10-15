@@ -1,4 +1,4 @@
-## Soy Bean Plant Classifier with Neural Network - from scratch
+## Plant Classifier with Neural Network - from scratch
 ### Week 7 assignment
 ---
 
